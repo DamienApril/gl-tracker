@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T11:51+00:00",
+ "updated": "2026-11-11T19:43+00:00",
  "shows": {
   "801182": {
    "id": "801182",
@@ -468,7 +468,7 @@
     "Wednesday"
    ],
    "network": "GMM 25",
-   "score": "7.8",
+   "score": "7.5",
    "synopsis": "Soul is a skilled architect. Xinxin is a successful Feng Shui master. When these two women with polar opposite personalities are hired to build a house together for its homeowners, a battle between them ensues. But will there be space for love to bloom?\n\n(Source: Thai = Lily-House.com || Translation/Edit = MyDramaList)\n\n~~ Adapted from the novel \"Built in Love\" (BUILT IN LOVE #ก่อร่างสร้างเลิฟ) by Salmon (แซลม่อน). Edit Translation English Русский Deutsch Français",
    "watch": [],
    "eps": [
@@ -13375,6 +13375,402 @@
    "synopsis": "~~ A student thesis project of the Broadcasting and Streaming Media Production program, School of Communication Arts, Bangkok University. Edit Translation English Français Español Português (Brasil)",
    "watch": [],
    "fetched": "2026-11-11"
+  },
+  "811036": {
+   "id": "811036",
+   "slug": "811036-how-to-love",
+   "title": "How to Love",
+   "poster": "https://i.mydramalist.com/ABKLe8_4t.jpg",
+   "firstSeen": "2026-11-11",
+   "native": "รักนี้มีฮาวทู",
+   "country": "Thailand",
+   "type": "Movie",
+   "episodes": null,
+   "start": "2026-04-10",
+   "end": null,
+   "airText": "Apr 10, 2026",
+   "airDays": [],
+   "network": null,
+   "score": "N/A",
+   "synopsis": "Members of a film society must submit scripts for a competition amid a chaotic recruiting environment. Relationships between people at the club begin to change when one of the club members is inspired by an online list of (weird) flirting methods to win over her secret crush. \n\n(Source: Letterboxd) Edit Translation English Español Português (Brasil) 한국어",
+   "watch": [],
+   "fetched": "2026-11-11"
+  },
+  "812714": {
+   "id": "812714",
+   "slug": "812714-love-me-against-the-night",
+   "title": "Love Me against the Night",
+   "poster": "https://i.mydramalist.com/NRkY5n_4t.jpg",
+   "firstSeen": "2026-11-11",
+   "native": "爱在极夜降临前",
+   "country": "China",
+   "type": "Drama",
+   "episodes": 59,
+   "start": "2026-04-03",
+   "end": "2026-04-28",
+   "airText": "Apr  3, 2026 - Apr 28, 2026",
+   "airDays": [
+    "Monday",
+    "Tuesday",
+    "Thursday",
+    "Friday"
+   ],
+   "network": null,
+   "score": "7.1",
+   "synopsis": "The story follows Bei Li, a guarded and control-driven heiress, and Nan Xun, a quiet yet unwavering bodyguard. Their relationship evolves from tension and mistrust into deep emotional reliance, offering a layered exploration of trust, vulnerability, and personal growth.\n\n(Source: lespark.us) Edit Translation English Español Português (Brasil) 한국어",
+   "watch": [],
+   "eps": [
+    {
+     "n": 1,
+     "date": "2026-04-03",
+     "est": true
+    },
+    {
+     "n": 2,
+     "date": "2026-04-06",
+     "est": true
+    },
+    {
+     "n": 3,
+     "date": "2026-04-07",
+     "est": true
+    },
+    {
+     "n": 4,
+     "date": "2026-04-09",
+     "est": true
+    },
+    {
+     "n": 5,
+     "date": "2026-04-10",
+     "est": true
+    },
+    {
+     "n": 6,
+     "date": "2026-04-13",
+     "est": true
+    },
+    {
+     "n": 7,
+     "date": "2026-04-14",
+     "est": true
+    },
+    {
+     "n": 8,
+     "date": "2026-04-16",
+     "est": true
+    },
+    {
+     "n": 9,
+     "date": "2026-04-17",
+     "est": true
+    },
+    {
+     "n": 10,
+     "date": "2026-04-20",
+     "est": true
+    },
+    {
+     "n": 11,
+     "date": "2026-04-21",
+     "est": true
+    },
+    {
+     "n": 12,
+     "date": "2026-04-23",
+     "est": true
+    },
+    {
+     "n": 13,
+     "date": "2026-04-24",
+     "est": true
+    },
+    {
+     "n": 14,
+     "date": "2026-04-27",
+     "est": true
+    },
+    {
+     "n": 15,
+     "date": "2026-04-28",
+     "est": true
+    },
+    {
+     "n": 16,
+     "date": "2026-04-30",
+     "est": true
+    },
+    {
+     "n": 17,
+     "date": "2026-05-01",
+     "est": true
+    },
+    {
+     "n": 18,
+     "date": "2026-05-04",
+     "est": true
+    },
+    {
+     "n": 19,
+     "date": "2026-05-05",
+     "est": true
+    },
+    {
+     "n": 20,
+     "date": "2026-05-07",
+     "est": true
+    },
+    {
+     "n": 21,
+     "date": "2026-05-08",
+     "est": true
+    },
+    {
+     "n": 22,
+     "date": "2026-05-11",
+     "est": true
+    },
+    {
+     "n": 23,
+     "date": "2026-05-12",
+     "est": true
+    },
+    {
+     "n": 24,
+     "date": "2026-05-14",
+     "est": true
+    },
+    {
+     "n": 25,
+     "date": "2026-05-15",
+     "est": true
+    },
+    {
+     "n": 26,
+     "date": "2026-05-18",
+     "est": true
+    },
+    {
+     "n": 27,
+     "date": "2026-05-19",
+     "est": true
+    },
+    {
+     "n": 28,
+     "date": "2026-05-21",
+     "est": true
+    },
+    {
+     "n": 29,
+     "date": "2026-05-22",
+     "est": true
+    },
+    {
+     "n": 30,
+     "date": "2026-05-25",
+     "est": true
+    },
+    {
+     "n": 31,
+     "date": "2026-05-26",
+     "est": true
+    },
+    {
+     "n": 32,
+     "date": "2026-05-28",
+     "est": true
+    },
+    {
+     "n": 33,
+     "date": "2026-05-29",
+     "est": true
+    },
+    {
+     "n": 34,
+     "date": "2026-06-01",
+     "est": true
+    },
+    {
+     "n": 35,
+     "date": "2026-06-02",
+     "est": true
+    },
+    {
+     "n": 36,
+     "date": "2026-06-04",
+     "est": true
+    },
+    {
+     "n": 37,
+     "date": "2026-06-05",
+     "est": true
+    },
+    {
+     "n": 38,
+     "date": "2026-06-08",
+     "est": true
+    },
+    {
+     "n": 39,
+     "date": "2026-06-09",
+     "est": true
+    },
+    {
+     "n": 40,
+     "date": "2026-06-11",
+     "est": true
+    },
+    {
+     "n": 41,
+     "date": "2026-06-12",
+     "est": true
+    },
+    {
+     "n": 42,
+     "date": "2026-06-15",
+     "est": true
+    },
+    {
+     "n": 43,
+     "date": "2026-06-16",
+     "est": true
+    },
+    {
+     "n": 44,
+     "date": "2026-06-18",
+     "est": true
+    },
+    {
+     "n": 45,
+     "date": "2026-06-19",
+     "est": true
+    },
+    {
+     "n": 46,
+     "date": "2026-06-22",
+     "est": true
+    },
+    {
+     "n": 47,
+     "date": "2026-06-23",
+     "est": true
+    },
+    {
+     "n": 48,
+     "date": "2026-06-25",
+     "est": true
+    },
+    {
+     "n": 49,
+     "date": "2026-06-26",
+     "est": true
+    },
+    {
+     "n": 50,
+     "date": "2026-06-29",
+     "est": true
+    },
+    {
+     "n": 51,
+     "date": "2026-06-30",
+     "est": true
+    },
+    {
+     "n": 52,
+     "date": "2026-07-02",
+     "est": true
+    },
+    {
+     "n": 53,
+     "date": "2026-07-03",
+     "est": true
+    },
+    {
+     "n": 54,
+     "date": "2026-07-06",
+     "est": true
+    },
+    {
+     "n": 55,
+     "date": "2026-07-07",
+     "est": true
+    },
+    {
+     "n": 56,
+     "date": "2026-07-09",
+     "est": true
+    },
+    {
+     "n": 57,
+     "date": "2026-07-10",
+     "est": true
+    },
+    {
+     "n": 58,
+     "date": "2026-07-13",
+     "est": true
+    },
+    {
+     "n": 59,
+     "date": "2026-07-14",
+     "est": true
+    }
+   ],
+   "fetched": "2026-11-11"
+  },
+  "810168": {
+   "id": "810168",
+   "slug": "810168-heart-set-on-her",
+   "title": "Heart Set on Her",
+   "poster": "https://i.mydramalist.com/zB1mX1_4t.jpg",
+   "firstSeen": "2026-11-11",
+   "native": "心有妻妻焉",
+   "country": "Taiwan",
+   "type": "Movie",
+   "episodes": null,
+   "start": "2026-06-11",
+   "end": null,
+   "airText": "Jun 11, 2026",
+   "airDays": [],
+   "network": null,
+   "score": "7.4",
+   "synopsis": "Mia and Emma decide to take the next step toward marriage, only to find their first challenge lies in bringing their families together. Amid complicated traditions, dowry preparations, and the chaos of wedding planning, they face arguments, doubts, and uncertainty about the future. As expectations from both sides begin to weigh on them, they start to question what happiness truly means—and whether marriage is really the answer.\n\n(Source: GagaOOLala) Edit Translation English Français Español Português (Brasil)",
+   "watch": [],
+   "fetched": "2026-11-11"
+  },
+  "812752": {
+   "id": "812752",
+   "slug": "812752-fuyu-sakura-shunsetsu",
+   "title": "Fuyu Sakura, Shunsetsu",
+   "poster": "https://i.mydramalist.com/zvOw8e_4t.jpg",
+   "firstSeen": "2026-11-11",
+   "native": "冬桜、春雪",
+   "country": "Japan",
+   "type": "Drama",
+   "episodes": 2,
+   "start": "2026-05-22",
+   "end": "2026-05-29",
+   "airText": "May 22, 2026 - May 29, 2026",
+   "airDays": [
+    "Friday"
+   ],
+   "network": null,
+   "score": "N/A",
+   "synopsis": "I fell in love with my roommate. But if I tell her, it could destroy everything between us. What would you do?\n\n(Source: GOSSIP SUGAR FILMS YouTube) Edit Translation English Español Português (Brasil) 한국어",
+   "watch": [],
+   "eps": [
+    {
+     "n": 1,
+     "date": "2026-05-22",
+     "est": false
+    },
+    {
+     "n": 2,
+     "date": "2026-05-29",
+     "est": false
+    }
+   ],
+   "fetched": "2026-11-11"
   }
  },
  "notified": [
@@ -13454,6 +13850,34 @@
   "72855:7",
   "72855:8",
   "72855:9",
+  "732583:1",
+  "732583:10",
+  "732583:11",
+  "732583:12",
+  "732583:13",
+  "732583:14",
+  "732583:15",
+  "732583:16",
+  "732583:17",
+  "732583:18",
+  "732583:19",
+  "732583:2",
+  "732583:20",
+  "732583:21",
+  "732583:22",
+  "732583:23",
+  "732583:24",
+  "732583:25",
+  "732583:26",
+  "732583:27",
+  "732583:28",
+  "732583:3",
+  "732583:4",
+  "732583:5",
+  "732583:6",
+  "732583:7",
+  "732583:8",
+  "732583:9",
   "749465:1",
   "749465:10",
   "749465:11",
@@ -13887,6 +14311,7 @@
   "802390:3",
   "802390:4",
   "802390:5",
+  "802500:1",
   "802502:1",
   "802502:10",
   "802502:11",
@@ -13899,6 +14324,7 @@
   "802502:7",
   "802502:8",
   "802502:9",
+  "802890:1",
   "803606:1",
   "803606:2",
   "803606:3",
@@ -14196,6 +14622,7 @@
   "811730:5",
   "811730:6",
   "811730:7",
+  "811890:1",
   "812600:1",
   "812600:10",
   "812600:2",
@@ -14206,6 +14633,75 @@
   "812600:7",
   "812600:8",
   "812600:9",
+  "812714:1",
+  "812714:10",
+  "812714:11",
+  "812714:12",
+  "812714:13",
+  "812714:14",
+  "812714:15",
+  "812714:16",
+  "812714:17",
+  "812714:18",
+  "812714:19",
+  "812714:2",
+  "812714:20",
+  "812714:21",
+  "812714:22",
+  "812714:23",
+  "812714:24",
+  "812714:25",
+  "812714:26",
+  "812714:27",
+  "812714:28",
+  "812714:29",
+  "812714:3",
+  "812714:30",
+  "812714:31",
+  "812714:32",
+  "812714:33",
+  "812714:34",
+  "812714:35",
+  "812714:36",
+  "812714:37",
+  "812714:38",
+  "812714:39",
+  "812714:4",
+  "812714:40",
+  "812714:41",
+  "812714:42",
+  "812714:43",
+  "812714:44",
+  "812714:45",
+  "812714:46",
+  "812714:47",
+  "812714:48",
+  "812714:49",
+  "812714:5",
+  "812714:50",
+  "812714:51",
+  "812714:52",
+  "812714:53",
+  "812714:54",
+  "812714:55",
+  "812714:56",
+  "812714:57",
+  "812714:58",
+  "812714:59",
+  "812714:6",
+  "812714:7",
+  "812714:8",
+  "812714:9",
+  "812752:1",
+  "812752:2",
+  "812830:1",
+  "812830:2",
+  "812830:3",
+  "812830:4",
+  "812830:5",
+  "812830:6",
+  "812830:7",
+  "812830:8",
   "812888:1",
   "812888:10",
   "812888:2",
@@ -14224,6 +14720,8 @@
   "813216:6",
   "813216:7",
   "813216:8",
-  "813216:9"
+  "813216:9",
+  "814350:1",
+  "814350:2"
  ]
 }

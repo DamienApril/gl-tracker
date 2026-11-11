@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T11:41+00:00",
+ "updated": "2026-11-11T19:41+00:00",
  "list": {
   "797208": {
    "slug": "797208-denied-love-special-endless",
@@ -128,6 +128,14 @@
    "seen": 0,
    "total": 1,
    "poster": "https://i.mydramalist.com/O844Yy_4t.jpg"
+  },
+  "813328": {
+   "slug": "813328-a-kiss-after-goodbye",
+   "title": "A Kiss after Goodbye",
+   "status": 3,
+   "seen": 0,
+   "total": 1,
+   "poster": "https://i.mydramalist.com/Knb6Aq_4t.jpg"
   },
   "783452": {
    "slug": "783452-a-piece-of-memory",
@@ -529,6 +537,14 @@
    "total": 1,
    "poster": "https://i.mydramalist.com/BdBPlb_4t.jpg"
   },
+  "813898": {
+   "slug": "813898-do-you-like-me",
+   "title": "Do You Like Me?",
+   "status": 3,
+   "seen": 0,
+   "total": 1,
+   "poster": "https://i.mydramalist.com/lB0Q2E_4t.jpg"
+  },
   "812888": {
    "slug": "812888-don-t-say-no-yet",
    "title": "Don't Say No Yet",
@@ -544,6 +560,22 @@
    "seen": 0,
    "total": 1,
    "poster": "https://i.mydramalist.com/B0xlbt.jpg"
+  },
+  "813610": {
+   "slug": "813610-drunk-in-love",
+   "title": "Drunk in Love",
+   "status": 3,
+   "seen": 0,
+   "total": 1,
+   "poster": "https://i.mydramalist.com/m0OjW2_4t.jpg"
+  },
+  "814554": {
+   "slug": "814554-drunken-confession",
+   "title": "Drunken Confession",
+   "status": 3,
+   "seen": 0,
+   "total": 1,
+   "poster": "https://i.mydramalist.com/onQpKY_4t.jpg"
   },
   "784664": {
    "slug": "784664-enemies-with-benefits",
@@ -785,6 +817,14 @@
    "total": 10,
    "poster": "https://i.mydramalist.com/b3RX2L_4t.jpg"
   },
+  "812752": {
+   "slug": "812752-fuyu-sakura-shunsetsu",
+   "title": "Fuyu Sakura, Shunsetsu",
+   "status": 3,
+   "seen": 0,
+   "total": 2,
+   "poster": "https://i.mydramalist.com/zvOw8e_4t.jpg"
+  },
   "707221": {
    "slug": "707221-gap",
    "title": "GAP",
@@ -905,6 +945,14 @@
    "total": 6,
    "poster": "https://i.mydramalist.com/nOLrd4_4t.jpg"
   },
+  "810168": {
+   "slug": "810168-heart-set-on-her",
+   "title": "Heart Set on Her",
+   "status": 3,
+   "seen": 0,
+   "total": 1,
+   "poster": "https://i.mydramalist.com/zB1mX1_4t.jpg"
+  },
   "804648": {
    "slug": "804648-heart-s-secret-code",
    "title": "Heart's Secret Code",
@@ -912,6 +960,14 @@
    "seen": 0,
    "total": 5,
    "poster": "https://i.mydramalist.com/l0kZJE_4t.jpg"
+  },
+  "812830": {
+   "slug": "812830-hello-stranger",
+   "title": "Hello, Stranger",
+   "status": 3,
+   "seen": 0,
+   "total": 8,
+   "poster": "https://i.mydramalist.com/JjPDRJ_4t.jpg"
   },
   "718117": {
    "slug": "718117-help-i-accidentally-stole-my-shixiong-s-crush",
@@ -928,6 +984,14 @@
    "seen": 0,
    "total": 1,
    "poster": "https://i.mydramalist.com/l0oYrQ_4t.jpg"
+  },
+  "814350": {
+   "slug": "814350-her-stories-one-more-glance-at-you",
+   "title": "Her Stories: One More Glance at You",
+   "status": 3,
+   "seen": 0,
+   "total": 2,
+   "poster": "https://i.mydramalist.com/L2w0Kb_4t.jpg"
   },
   "795428": {
    "slug": "795428-hidden-half",
@@ -984,6 +1048,14 @@
    "seen": 0,
    "total": 6,
    "poster": "https://i.mydramalist.com/5vVWoA_4t.jpg"
+  },
+  "811036": {
+   "slug": "811036-how-to-love",
+   "title": "How to Love",
+   "status": 3,
+   "seen": 0,
+   "total": 1,
+   "poster": "https://i.mydramalist.com/ABKLe8_4t.jpg"
   },
   "80267": {
    "slug": "80267-how-to-ruin-housewarming-party",
@@ -1321,6 +1393,22 @@
    "total": 2,
    "poster": "https://i.mydramalist.com/YYXk1z_4t.jpg"
   },
+  "812714": {
+   "slug": "812714-love-me-against-the-night",
+   "title": "Love Me against the Night",
+   "status": 3,
+   "seen": 0,
+   "total": 59,
+   "poster": "https://i.mydramalist.com/NRkY5n_4t.jpg"
+  },
+  "811890": {
+   "slug": "811890-love-me-to-hurt-me",
+   "title": "Love Me to Hurt Me",
+   "status": 1,
+   "seen": 0,
+   "total": 8,
+   "poster": "https://i.mydramalist.com/YAYbqd_4t.jpg"
+  },
   "801102": {
    "slug": "801102-love-moment-special",
    "title": "Love Moment Special",
@@ -1349,7 +1437,7 @@
    "slug": "801606-love-on-hire",
    "title": "Love on Hire",
    "status": 1,
-   "seen": 0,
+   "seen": 4,
    "total": 10,
    "poster": "https://i.mydramalist.com/7r0EYN_4t.jpg"
   },
@@ -1601,6 +1689,14 @@
    "total": 10,
    "poster": "https://i.mydramalist.com/w6jkA_4t.jpg"
   },
+  "814552": {
+   "slug": "814552-nice-to-meet-you",
+   "title": "Nice to Meet You",
+   "status": 3,
+   "seen": 0,
+   "total": 8,
+   "poster": "https://i.mydramalist.com/lB0pkv_4t.jpg"
+  },
   "734753": {
    "slug": "734753-no-distance-left-to-run",
    "title": "No Distance Left to Run",
@@ -1720,6 +1816,14 @@
    "seen": 3,
    "total": 3,
    "poster": "https://i.mydramalist.com/BbZY7t.jpg"
+  },
+  "802890": {
+   "slug": "802890-oxytoxin",
+   "title": "Oxytoxin",
+   "status": 1,
+   "seen": 1,
+   "total": 10,
+   "poster": "https://i.mydramalist.com/NRdwEA_4t.jpg"
   },
   "758585": {
    "slug": "758585-peaceful-property",
@@ -2036,8 +2140,8 @@
   "811446": {
    "slug": "811446-shades-uncut",
    "title": "Shades Uncut",
-   "status": 1,
-   "seen": 0,
+   "status": 2,
+   "seen": 6,
    "total": 6,
    "poster": "https://i.mydramalist.com/Dkqnwq_4t.jpg"
   },
@@ -2048,6 +2152,14 @@
    "seen": 24,
    "total": 24,
    "poster": "https://i.mydramalist.com/81jwDW_4t.jpg"
+  },
+  "732583": {
+   "slug": "732583-she-is-still-cute-today",
+   "title": "She Is Still Cute Today",
+   "status": 3,
+   "seen": 0,
+   "total": 28,
+   "poster": "https://i.mydramalist.com/YYPYdd_4t.jpg"
   },
   "741249": {
    "slug": "741249-she-makes-my-heart-flutter",
@@ -2481,6 +2593,14 @@
    "total": 2,
    "poster": "https://i.mydramalist.com/mONnRJ_4t.jpg"
   },
+  "802500": {
+   "slug": "802500-under-her-rules",
+   "title": "Under Her Rules",
+   "status": 1,
+   "seen": 1,
+   "total": 8,
+   "poster": "https://i.mydramalist.com/onnxgO_4t.jpg"
+  },
   "789966": {
    "slug": "789966-unlimited-love",
    "title": "Unlimited Love",
@@ -2512,6 +2632,14 @@
    "seen": 0,
    "total": 1,
    "poster": "https://i.mydramalist.com/edqOQ_4t.jpg"
+  },
+  "811580": {
+   "slug": "811580-uranus2325-special-version",
+   "title": "Uranus2325 Special Version",
+   "status": 3,
+   "seen": 0,
+   "total": 1,
+   "poster": "https://i.mydramalist.com/73LnoB_4t.jpg"
   },
   "738599": {
    "slug": "738599-us",

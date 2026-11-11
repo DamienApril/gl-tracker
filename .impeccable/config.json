@@ -1,0 +1,44 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "cramped-padding",
+        "value": "*",
+        "files": [
+          "samples/themes.html"
+        ],
+        "createdAt": "2026-11-11T11:06:23.546Z",
+        "reason": "Claude: throwaway theme-comparison page; phone frames are mockup chrome, Inter is only the page's caption text, small tag chips and decorative watermark are intentional"
+      },
+      {
+        "rule": "overused-font",
+        "value": "*",
+        "files": [
+          "samples/themes.html"
+        ],
+        "createdAt": "2026-11-11T11:06:23.761Z",
+        "reason": "Claude: throwaway theme-comparison page; phone frames are mockup chrome, Inter is only the page's caption text, small tag chips and decorative watermark are intentional"
+      },
+      {
+        "rule": "nested-cards",
+        "value": "*",
+        "files": [
+          "samples/themes.html"
+        ],
+        "createdAt": "2026-11-11T11:06:24.001Z",
+        "reason": "Claude: throwaway theme-comparison page; phone frames are mockup chrome, Inter is only the page's caption text, small tag chips and decorative watermark are intentional"
+      },
+      {
+        "rule": "low-contrast",
+        "value": "*",
+        "files": [
+          "samples/themes.html"
+        ],
+        "createdAt": "2026-11-11T11:06:24.216Z",
+        "reason": "Claude: throwaway theme-comparison page; phone frames are mockup chrome, Inter is only the page's caption text, small tag chips and decorative watermark are intentional"
+      }
+    ]
+  }
+}

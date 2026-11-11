@@ -1,0 +1,33 @@
+name: sync
+# Started by the app (GitHub API workflow_dispatch) to push one change to MyDramaList.
+# No commit and no concurrency group: each run is independent, so quick taps on different shows never cancel each other.
+# The app shows the change at once; the next scheduled update pulls MDL's real values into data/mdl.json.
+on:
+  workflow_dispatch:
+    inputs:
+      id: { description: "MDL title id", required: true }
+      status: { description: "1 watching, 2 completed, 3 plan, 4 on-hold, 5 dropped", required: false, default: "" }
+      seen: { description: "episodes seen", required: false, default: "" }
+permissions:
+  contents: read
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.13" }
+      - run: pip install curl_cffi
+      - name: write to MDL
+        env:
+          MDL_TOKEN: ${{ secrets.MDL_TOKEN }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          ID: ${{ inputs.id }}
+          STATUS: ${{ inputs.status }}
+          SEEN: ${{ inputs.seen }}
+        run: |
+          args="$ID"
+          [ -n "$STATUS" ] && args="$args --status $STATUS"
+          [ -n "$SEEN" ] && args="$args --seen $SEEN"
+          python scraper/mdl_write.py $args

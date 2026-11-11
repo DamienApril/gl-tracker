@@ -1,0 +1,5 @@
+__pycache__/
+samples/
+.impeccable/review/
+.impeccable/mocks/
+.impeccable/hook.cache.json

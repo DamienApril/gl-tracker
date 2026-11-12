@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T11:29+00:00",
+ "updated": "2026-11-12T20:04+00:00",
  "shows": {
   "801182": {
    "id": "801182",
@@ -386,7 +386,7 @@
     "Thursday"
    ],
    "network": "WeTV",
-   "score": "7.7",
+   "score": "7.8",
    "synopsis": "Thirachat's investigation only leads to more conflict. After she accidentally causes waitress Thitinan to lose her job, the desperate waitress blackmails her way into a position at her company. Forced to work side by side, the two become relentless rivals, constantly clashing over every little thing. \n\nEverything changes when Thirachat carelessly insults Thitinan by calling her a woman with no charm. Refusing to let the remark go, Thitinan boldly declares that she will make Thirachat fall in love with her—turning their bitter rivalry into a dangerous game where pride, deception, and unexpected",
    "watch": [
     {
@@ -606,7 +606,7 @@
    "id": "812564",
    "slug": "812564-red-maid",
    "title": "Red Maid",
-   "meta": "Korean Drama - 2026, 4 episodes",
+   "meta": "Korean Drama - 2026, 8 episodes",
    "poster": "https://i.mydramalist.com/L2DDp7_4s.jpg?v=1",
    "firstSeen": "2026-11-11",
    "native": "레드메이드",
@@ -2060,7 +2060,7 @@
     "Monday"
    ],
    "network": "WeTV",
-   "score": "8.3",
+   "score": "8.2",
    "synopsis": "A skeptical Bangkok cop hunts a bulletproof human trafficking kingpin. She travels to Phop Phra, Tak, seeking a master to forge enchanted bullets. Upon arrival, she discovers that the master she sought is her fated soulmate, who has been waiting for her to reunite with her true love all her life.\n\n(Source: WeTV)\n\n~~ Adapted from the web novel \"Formidable Eyes\" (ข่มขลัง) by Luxurious.W (ลักซ์ชูเรียส.w). Edit Translation English Deutsch Español Português (Brasil)",
    "watch": [
     {
@@ -13773,6 +13773,107 @@
     }
    ],
    "fetched": "2026-11-11"
+  },
+  "802482": {
+   "id": "802482",
+   "slug": "802482-why-you-don-t-know-it-s-a-girl",
+   "title": "Love in Disguise",
+   "poster": "https://i.mydramalist.com/gOyrqq_4t.jpg",
+   "firstSeen": "2026-11-12",
+   "native": "나의 유죄인간",
+   "country": "South Korea",
+   "type": "Drama",
+   "episodes": 12,
+   "start": "2026-10-19",
+   "end": "2026-11-24",
+   "airText": "Oct 19, 2026 - Nov 24, 2026",
+   "airDays": [
+    "Monday",
+    "Tuesday"
+   ],
+   "network": "tvN",
+   "score": "8.6",
+   "synopsis": "An office romantic comedy that follows the story of a conglomerate heir and his new secretary, a former special forces officer now working undercover.\n\nYun I Jun is a quirky third-generation chaebol raised in a sheltered environment who becomes a prime suspect in the mysterious murder of his previous secretary. When a new “male” secretary arrives to take the position, he has no idea that she’s hiding a major secret.\n\nTo uncover the truth, Kang Jae Hui, a former special forces officer turned police officer renowned as a “human weapon” for her exceptional strength and combat skills, disguises he",
+   "watch": [
+    {
+     "name": "Apple TV",
+     "url": "https://tv.apple.com/show/umc.cmc.25ek5ufi31jwrg13kgpvoi7mh?itscg=30200&itsct=mydramalist_tv&at=1010l3cnx",
+     "kind": "Subscription"
+    },
+    {
+     "name": "Prime Video",
+     "url": "https://www.primevideo.com/detail/0INEYNSINLQC82ZUIFLK7VNV09",
+     "kind": "Subscription (sub)"
+    },
+    {
+     "name": "TVING",
+     "url": "https://www.tving.com/contents/E004651452",
+     "kind": "Subscription"
+    }
+   ],
+   "eps": [
+    {
+     "n": 1,
+     "date": "2026-10-19",
+     "est": false
+    },
+    {
+     "n": 2,
+     "date": "2026-10-20",
+     "est": false
+    },
+    {
+     "n": 3,
+     "date": "2026-10-26",
+     "est": false
+    },
+    {
+     "n": 4,
+     "date": "2026-10-27",
+     "est": false
+    },
+    {
+     "n": 5,
+     "date": "2026-11-02",
+     "est": false
+    },
+    {
+     "n": 6,
+     "date": "2026-11-03",
+     "est": false
+    },
+    {
+     "n": 7,
+     "date": "2026-11-09",
+     "est": false
+    },
+    {
+     "n": 8,
+     "date": "2026-11-10",
+     "est": false
+    },
+    {
+     "n": 9,
+     "date": "2026-11-16",
+     "est": false
+    },
+    {
+     "n": 10,
+     "date": "2026-11-17",
+     "est": false
+    },
+    {
+     "n": 11,
+     "date": "2026-11-23",
+     "est": false
+    },
+    {
+     "n": 12,
+     "date": "2026-11-24",
+     "est": false
+    }
+   ],
+   "fetched": "2026-11-12"
   }
  },
  "notified": [
@@ -14314,6 +14415,14 @@
   "802390:3",
   "802390:4",
   "802390:5",
+  "802482:1",
+  "802482:2",
+  "802482:3",
+  "802482:4",
+  "802482:5",
+  "802482:6",
+  "802482:7",
+  "802482:8",
   "802500:1",
   "802502:1",
   "802502:10",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T02:21+00:00",
+ "updated": "2026-11-12T11:29+00:00",
  "shows": {
   "801182": {
    "id": "801182",
@@ -173,7 +173,7 @@
     "Saturday"
    ],
    "network": "iQiyi",
-   "score": "7.7",
+   "score": "7.6",
    "synopsis": "Alice, a fresh graduate, meets her intense and alluring boss Nannalin. As boundaries blur between work, desire, and power, Alice must decide—escape her demanding boss or surrender under her rules? \n\n(Source: onegrand.vip) Edit Translation English Русский Français Deutsch",
    "watch": [
     {
@@ -386,7 +386,7 @@
     "Thursday"
    ],
    "network": "WeTV",
-   "score": "7.8",
+   "score": "7.7",
    "synopsis": "Thirachat's investigation only leads to more conflict. After she accidentally causes waitress Thitinan to lose her job, the desperate waitress blackmails her way into a position at her company. Forced to work side by side, the two become relentless rivals, constantly clashing over every little thing. \n\nEverything changes when Thirachat carelessly insults Thitinan by calling her a woman with no charm. Refusing to let the remark go, Thitinan boldly declares that she will make Thirachat fall in love with her—turning their bitter rivalry into a dangerous game where pride, deception, and unexpected",
    "watch": [
     {
@@ -1414,7 +1414,9 @@
    "start": "2026-11-14",
    "end": null,
    "airText": "Nov 14, 2026 - ?",
-   "airDays": [],
+   "airDays": [
+    "Saturday"
+   ],
    "network": null,
    "score": "N/A",
    "synopsis": "The closer we are, the more I feel it. The further apart we are, the more I miss you. The more I try to control my feelings, the more I yearn for you. Because every moment we shared was truly special, a special memory to cherish forever.\n\n(Source: Thai = XEBIS Entertainment Instagram || Translation = MyDramaList) Edit Translation English Español Português (Brasil) 한국어",
@@ -1422,7 +1424,7 @@
    "eps": [
     {
      "n": 1,
-     "date": null,
+     "date": "2026-11-14",
      "est": false
     }
    ],
@@ -1469,7 +1471,7 @@
     "Thursday"
    ],
    "network": "Netflix",
-   "score": "7.4",
+   "score": "7.5",
    "synopsis": "Years after her mother vanished, Sabina follows a mysterious clue to an uncharted island, where she confronts hidden dark secrets within her own family.\n\n(Source: Netflix) Edit Translation English Deutsch Français Español",
    "watch": [
     {

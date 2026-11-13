@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T20:04+00:00",
+ "updated": "2026-11-13T01:56+00:00",
  "shows": {
   "801182": {
    "id": "801182",
@@ -70,7 +70,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "802890": {
@@ -152,7 +152,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "802500": {
@@ -224,7 +224,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "811890": {
@@ -245,7 +245,7 @@
     "Friday"
    ],
    "network": "Channel 3",
-   "score": "7.6",
+   "score": "7.5",
    "synopsis": "Song is a glamorous jewellery mogul; she has everything but peace. Haunted by the woman who broke her heart, she seizes the change for revenge when her former lover, Oh, unexpectedly becomes her mother's private nurse. Bound by a contract and trapped under one roof, Oh endures Song's cold cruelty while hiding the painful truth behind their separation. \n\nAs old wounds reopen, resentment gradually gives way to longing. When the secrets finally surface, however, Song realises she has been punishing the woman who sacrificed everything for her. Is there a second chance for love, or is it already to",
    "watch": [
     {
@@ -301,7 +301,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "814552": {
@@ -318,7 +318,9 @@
    "start": "2026-10-29",
    "end": null,
    "airText": "Oct 29, 2026 - ?",
-   "airDays": [],
+   "airDays": [
+    "Thursday"
+   ],
    "network": null,
    "score": "N/A",
    "synopsis": "Edit Translation English Español Português (Brasil) 한국어",
@@ -326,46 +328,46 @@
    "eps": [
     {
      "n": 1,
-     "date": null,
+     "date": "2026-10-29",
      "est": false
     },
     {
      "n": 2,
-     "date": null,
+     "date": "2026-11-05",
      "est": false
     },
     {
      "n": 3,
-     "date": null,
+     "date": "2026-11-05",
      "est": false
     },
     {
      "n": 4,
-     "date": null,
+     "date": "2026-11-12",
      "est": false
     },
     {
      "n": 5,
-     "date": null,
+     "date": "2026-11-19",
      "est": false
     },
     {
      "n": 6,
-     "date": null,
+     "date": "2026-11-26",
      "est": false
     },
     {
      "n": 7,
-     "date": null,
+     "date": "2026-12-03",
      "est": false
     },
     {
      "n": 8,
-     "date": null,
+     "date": "2026-12-10",
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "801606": {
@@ -386,7 +388,7 @@
     "Thursday"
    ],
    "network": "WeTV",
-   "score": "7.8",
+   "score": "7.7",
    "synopsis": "Thirachat's investigation only leads to more conflict. After she accidentally causes waitress Thitinan to lose her job, the desperate waitress blackmails her way into a position at her company. Forced to work side by side, the two become relentless rivals, constantly clashing over every little thing. \n\nEverything changes when Thirachat carelessly insults Thitinan by calling her a woman with no charm. Refusing to let the remark go, Thitinan boldly declares that she will make Thirachat fall in love with her—turning their bitter rivalry into a dangerous game where pride, deception, and unexpected",
    "watch": [
     {
@@ -447,7 +449,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "781278": {
@@ -523,7 +525,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "809264": {
@@ -599,7 +601,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "812564": {
@@ -815,7 +817,7 @@
      "est": true
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "779794": {
@@ -889,7 +891,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "779196": {
@@ -918,7 +920,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "794410": {
@@ -982,7 +984,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "806028": {
@@ -1058,7 +1060,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "811162": {
@@ -1087,7 +1089,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "803408": {
@@ -1116,7 +1118,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "803406": {
@@ -1145,7 +1147,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "803362": {
@@ -1174,7 +1176,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "811634": {
@@ -1203,7 +1205,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "811852": {
@@ -1232,7 +1234,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "814268": {
@@ -1261,7 +1263,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "814574": {
@@ -1290,7 +1292,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "814580": {
@@ -1319,7 +1321,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "814340": {
@@ -1397,7 +1399,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "813770": {
@@ -1428,7 +1430,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "814554": {
@@ -1442,15 +1444,15 @@
    "country": "South Korea",
    "type": "Movie",
    "episodes": null,
-   "start": "2026-10-30",
+   "start": "2026-10-20",
    "end": null,
-   "airText": "Oct 30, 2026",
+   "airText": "Oct 20, 2026",
    "airDays": [],
    "network": null,
    "score": "N/A",
    "synopsis": "Edit Translation English Español Português (Brasil) 한국어",
    "watch": [],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "806432": {
@@ -1512,7 +1514,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "814350": {
@@ -1549,7 +1551,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "813898": {
@@ -1637,7 +1639,7 @@
     "Friday"
    ],
    "network": null,
-   "score": "7.1",
+   "score": "7.2",
    "synopsis": "Edit Translation English Español Português (Brasil) 한국어",
    "watch": [],
    "eps": [
@@ -1687,7 +1689,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "812888": {
@@ -1863,7 +1865,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "812494": {
@@ -1957,7 +1959,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "776639": {
@@ -2039,7 +2041,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "812600": {
@@ -2121,7 +2123,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "810628": {
@@ -2142,7 +2144,7 @@
     "Sunday"
    ],
    "network": "One 31",
-   "score": "7.4",
+   "score": "7.3",
    "synopsis": "Nana, the daughter of a golf course tycoon, is suddenly called back from studying fashion in Europe to save the business from crisis. There, she meets Pro Vee, a former skilled golf pro who is now the resident golf pro. Pro Vee is strict, demanding, and displeased that Nana knows nothing about golf, the sport she loves and is so dedicated to. The two must cooperate to save Nana's father's golf course, leading to a deep and romantic relationship. However, things aren't as simple as they should be. A major obstacle hindering Nana and Pro Vee's goals is Pro Jin, another highly skilled golf pro fr",
    "watch": [],
    "eps": [
@@ -2187,7 +2189,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "812606": {
@@ -2259,7 +2261,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "805774": {
@@ -2325,7 +2327,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "812926": {
@@ -2428,7 +2430,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12",
+   "fetched": "2026-11-13",
    "gl": true
   },
   "811730": {
@@ -4757,7 +4759,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12"
+   "fetched": "2026-11-13"
   },
   "799034": {
    "id": "799034",
@@ -8371,7 +8373,7 @@
    "score": "N/A",
    "synopsis": "Ayumi and Sayaka are a closed lesbian couple living together in Japan. They are looking forward to having a wedding photo shoot on their five-year anniversary. But it's not easy finding a photo salon that serves LGBTQ couples equally.\n\n(Source: IMDb) Edit Translation English magyar / magyar nyelv עברית / עִבְרִית dansk",
    "watch": [],
-   "fetched": "2026-11-12"
+   "fetched": "2026-11-13"
   },
   "781266": {
    "id": "781266",
@@ -9001,7 +9003,7 @@
    "score": "N/A",
    "synopsis": "Yu Hui and Ju Yeon fell in love in high school, but their school’s persecution of gays tore them apart. When they meet again years later, sparks begin to fly. \n\n(Source: YouTube) Edit Translation English हिन्दी Español magyar / magyar nyelv",
    "watch": [],
-   "fetched": "2026-11-12"
+   "fetched": "2026-11-13"
   },
   "810198": {
    "id": "810198",
@@ -9260,7 +9262,7 @@
      "est": true
     }
    ],
-   "fetched": "2026-11-12"
+   "fetched": "2026-11-13"
   },
   "793144": {
    "id": "793144",
@@ -9545,7 +9547,7 @@
    "score": "N/A",
    "synopsis": "Ji An is burdened with the courtship of a younger man, Dal Mo. She doesn't even listen to Dal Mo's story, but instead keeps her eyes on the woman sitting next to her. \n\n“Blooming Love” meticulously depicts the feelings felt at the beginning of liking someone.\n\n(Source: Seoul Queer Culture Festival YouTube) Edit Translation English magyar / magyar nyelv עברית / עִבְרִית dansk",
    "watch": [],
-   "fetched": "2026-11-12"
+   "fetched": "2026-11-13"
   },
   "798210": {
    "id": "798210",
@@ -9735,7 +9737,7 @@
    "score": "7.5",
    "synopsis": "Ho Jeong and Ji Eun, best friends. They are always together, but with the arrival of Jun Young, a male student in their class, their relationship begins to fall apart.\n\n(Source: YouTube.com) Edit Translation English magyar / magyar nyelv עברית / עִבְרִית dansk",
    "watch": [],
-   "fetched": "2026-11-12"
+   "fetched": "2026-11-13"
   },
   "798540": {
    "id": "798540",
@@ -11938,7 +11940,7 @@
    "score": "N/A",
    "synopsis": "Su Young is a lesbian who plans to go on the first vacation with her girlfriend, Young Mi. But the day before the two leave for vacation, Su Young receives the news about her father's hospitalization. She reluctantly pushes back a day and goes to visit her parents. Will she be able to safely go on the vacation with her girlfriend?\n\n(Source: YouTube) Edit Translation English magyar / magyar nyelv dansk Norsk",
    "watch": [],
-   "fetched": "2026-11-12"
+   "fetched": "2026-11-13"
   },
   "787486": {
    "id": "787486",
@@ -12386,7 +12388,7 @@
    "score": "5.3",
    "synopsis": "Tired of being a good girlfriend, she cheats on her boyfriend with her \"girl friend\", but what happens when he comes back home to find them together?\n\n(Source: ArabellaMari at MyDramaList) Edit Translation English magyar / magyar nyelv עברית / עִבְרִית dansk",
    "watch": [],
-   "fetched": "2026-11-12"
+   "fetched": "2026-11-13"
   },
   "58241": {
    "id": "58241",
@@ -12406,7 +12408,7 @@
    "score": "7.5",
    "synopsis": "The story of a mill factory worker, wife and loving mother in post-war World War II Japan who is visited by a female lover from before the war and has to choose between living the life she’s always wanted and her duties in traditional Japanese society. Edit Translation English magyar / magyar nyelv dansk Norsk",
    "watch": [],
-   "fetched": "2026-11-12"
+   "fetched": "2026-11-13"
   },
   "788316": {
    "id": "788316",
@@ -13873,7 +13875,7 @@
      "est": false
     }
    ],
-   "fetched": "2026-11-12"
+   "fetched": "2026-11-13"
   }
  },
  "notified": [
@@ -14735,6 +14737,7 @@
   "811730:6",
   "811730:7",
   "811890:1",
+  "811890:2",
   "812600:1",
   "812600:10",
   "812600:2",
@@ -14834,6 +14837,10 @@
   "813216:8",
   "813216:9",
   "814350:1",
-  "814350:2"
+  "814350:2",
+  "814552:1",
+  "814552:2",
+  "814552:3",
+  "814552:4"
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T01:31+00:00",
+ "updated": "2026-11-14T10:39+00:00",
  "shows": {
   "801182": {
    "id": "801182",
@@ -91,7 +91,7 @@
     "Saturday"
    ],
    "network": "GMM 25",
-   "score": "7.8",
+   "score": "7.9",
    "synopsis": "At St. Cecilia, there's an influential and feared high school friend group known as Toxxxxin led by Aidao, Gale, Chelsea, and Meimei. When bullied scholarship student Junjai comes into their orbit, Aidao finds her to bear a striking resemblance to the girl haunting her dreams. The girls take her in and elevate her social status as they pursue dreams of modelling and designing. The real world, however, is no dream, and the girls are plunged into trials they've never had to face before. \n\n(Source: MyDramaList) Edit Translation English Русский Português (Brasil) Deutsch",
    "watch": [
     {
@@ -1406,26 +1406,292 @@
    "id": "813770",
    "slug": "813770-debut-my-beat",
    "title": "Debut My Beat",
-   "meta": "Thai Drama - 2026",
+   "meta": "Thai Drama - 2026, 52 episodes",
    "poster": "https://i.mydramalist.com/5QvzpY_4s.jpg?v=1",
    "firstSeen": "2026-11-11",
    "native": "จังหวะหัวใจกลายเป็นเธอ",
    "country": "Thailand",
    "type": "Drama",
-   "episodes": 0,
+   "episodes": 52,
    "start": "2026-11-14",
    "end": null,
-   "airText": "Nov 14, 2026 - ?",
+   "airText": "Nov 14, 2026",
    "airDays": [
     "Saturday"
    ],
    "network": null,
    "score": "N/A",
    "synopsis": "The closer we are, the more I feel it. The further apart we are, the more I miss you. The more I try to control my feelings, the more I yearn for you. Because every moment we shared was truly special, a special memory to cherish forever.\n\n(Source: Thai = XEBIS Entertainment Instagram || Translation = MyDramaList) Edit Translation English Español Português (Brasil) 한국어",
-   "watch": [],
+   "watch": [
+    {
+     "name": "iQIYI",
+     "url": "https://www.iq.com/album/a4ed18h3lk",
+     "kind": "Subscription (sub)"
+    },
+    {
+     "name": "iQIYI (App)",
+     "url": "https://www.iq.com/share-short/a4ed18h3lk",
+     "kind": "Subscription (sub)"
+    }
+   ],
    "eps": [
     {
      "n": 1,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 2,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 3,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 4,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 5,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 6,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 7,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 8,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 9,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 10,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 11,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 12,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 13,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 14,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 15,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 16,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 17,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 18,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 19,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 20,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 21,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 22,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 23,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 24,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 25,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 26,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 27,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 28,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 29,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 30,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 31,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 32,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 33,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 34,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 35,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 36,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 37,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 38,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 39,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 40,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 41,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 42,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 43,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 44,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 45,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 46,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 47,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 48,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 49,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 50,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 51,
+     "date": "2026-11-14",
+     "est": false
+    },
+    {
+     "n": 52,
      "date": "2026-11-14",
      "est": false
     }

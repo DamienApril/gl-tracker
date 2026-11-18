@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T11:54+00:00",
+ "updated": "2026-11-18T20:41+00:00",
  "shows": {
   "801182": {
    "id": "801182",
@@ -1329,7 +1329,7 @@
    "slug": "814340-shock-me-girls-season-2",
    "title": "Shock Me Girls Season 2",
    "meta": "Thai Drama - 2026, 10 episodes",
-   "poster": "https://i.mydramalist.com/PexqvR_4s.jpg?v=1",
+   "poster": "https://i.mydramalist.com/NRRx8n_4s.jpg?v=1",
    "firstSeen": "2026-11-11",
    "native": "รักช็อตใจ ยัยช็อตฟีล 2",
    "country": "Thailand",
@@ -1420,7 +1420,7 @@
     "Saturday"
    ],
    "network": null,
-   "score": "7.9",
+   "score": "7.8",
    "synopsis": "The closer we are, the more I feel it. The further apart we are, the more I miss you. The more I try to control my feelings, the more I yearn for you. Because every moment we shared was truly special, a special memory to cherish forever.\n\n(Source: Thai = XEBIS Entertainment Instagram || Translation = MyDramaList) Edit Translation English Español Português (Brasil) 한국어",
    "watch": [
     {
@@ -1739,7 +1739,7 @@
     "Thursday"
    ],
    "network": "Netflix",
-   "score": "7.5",
+   "score": "7.4",
    "synopsis": "Years after her mother vanished, Sabina follows a mysterious clue to an uncharted island, where she confronts hidden dark secrets within her own family.\n\n(Source: Netflix) Edit Translation English Deutsch Français Español",
    "watch": [
     {
@@ -14197,6 +14197,28 @@
      "est": true
     }
    ],
+   "fetched": "2026-11-18"
+  },
+  "778462": {
+   "id": "778462",
+   "slug": "778462-running-wild",
+   "title": "Running Wild",
+   "meta": "Taiwanese Movie - 2026",
+   "poster": "https://i.mydramalist.com/3vv20m_4s.jpg?v=1",
+   "gl": true,
+   "firstSeen": "2026-11-18",
+   "native": "一路狂奔",
+   "country": "Taiwan",
+   "type": "Movie",
+   "episodes": null,
+   "start": "2026-11-13",
+   "end": null,
+   "airText": "Nov 13, 2026",
+   "airDays": [],
+   "network": null,
+   "score": "N/A",
+   "synopsis": "Li Yi and Chung Wen are a lesbian couple tasked with the delivery of drugs. They head to a nightclub and run into Chang Kai, who offers them a lift. The three travel south to deliver the package but steal a gun. They decide to administer their own version of justice with the weapon in hand. As events get increasingly out of hand, they commit horrible crimes and find themselves in a complicated erotic relationship. In the end, aside from the naive Li Yi, the other two have their plans. A solitary Li Yi finds herself alone with the gun, which, like her, has been left behind. It’s her first time ",
+   "watch": [],
    "fetched": "2026-11-18"
   }
  },

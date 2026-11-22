@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T11:38+00:00",
+ "updated": "2026-11-22T19:49+00:00",
  "shows": {
   "801182": {
    "id": "801182",
@@ -19,7 +19,7 @@
     "Sunday"
    ],
    "network": null,
-   "score": "7.4",
+   "score": "7.5",
    "synopsis": "Whisky Pijika has been through three marriages, only to be betrayed by her partners time and again. These painful experiences turn her into a jealous woman who struggles to trust in love. Everything changes when she meets Pim Pimphisut a kind-hearted yet strong-willed businesswoman. They fall in love and decide to marry and register their marriage. \n\nHowever, they are threatened by Khemkaew, Whisky’s former best friend, whose jealousy drives her to plot to steal Pim away. Haunted by her past, Whisky becomes increasingly suspicious and possessive, allowing misunderstandings to escalate into bit",
    "watch": [
     {
@@ -2329,7 +2329,7 @@
    ],
    "network": "WeTV",
    "score": "8.3",
-   "synopsis": "A skeptical Bangkok cop hunts a bulletproof human trafficking kingpin. She travels to Phop Phra, Tak, seeking a master to forge enchanted bullets. Upon arrival, she discovers that the master she sought is her fated soulmate, who has been waiting for her to reunite with her true love all her life.\n\n(Source: WeTV)\n\n~~ Adapted from the web novel \"Formidable Eyes\" (ข่มขลัง) by Luxurious.W (ลักซ์ชูเรียส.w). Edit Translation English Deutsch Español Português (Brasil)",
+   "synopsis": "A skeptical Bangkok cop hunts a bulletproof human trafficking kingpin. She travels to Phop Phra, Tak, seeking a master to forge enchanted bullets. Upon arrival, she discovers that the master she sought is her fated soulmate, who has been waiting for her to reunite with her true love all her life.\n\n(Source: WeTV)\n\n~~ Adapted from the web novel \"Formidable Eyes\" (ข่มขลัง) by Luxurious.W (ลักซ์ชูเรียส.w). Edit Translation English Português (Brasil) Deutsch Español",
    "watch": [
     {
      "name": "WeTV",
@@ -16074,6 +16074,50 @@
      "est": false
     }
    ],
+   "fetched": "2026-11-22"
+  },
+  "815026": {
+   "id": "815026",
+   "slug": "815026-laplap",
+   "title": "Laplap",
+   "meta": "Filipino Movie - 2026",
+   "poster": "/assets/noimage.jpg",
+   "gl": true,
+   "firstSeen": "2026-11-22",
+   "native": "Laplap",
+   "country": "Philippines",
+   "type": "Movie",
+   "episodes": null,
+   "start": "2026-11-20",
+   "end": null,
+   "airText": "Nov 20, 2026",
+   "airDays": [],
+   "network": null,
+   "score": "N/A",
+   "synopsis": "Edit Translation English Español Português (Brasil) 한국어",
+   "watch": [],
+   "fetched": "2026-11-22"
+  },
+  "815002": {
+   "id": "815002",
+   "slug": "815002-counseling-101",
+   "title": "Counseling 101",
+   "meta": "Thai Movie - 2026",
+   "poster": "https://i.mydramalist.com/zvvPgd_4s.jpg?v=1",
+   "gl": true,
+   "firstSeen": "2026-11-22",
+   "native": "ที่ปรึกษา101",
+   "country": "Thailand",
+   "type": "Movie",
+   "episodes": null,
+   "start": "2026-11-07",
+   "end": null,
+   "airText": "Nov  7, 2026",
+   "airDays": [],
+   "network": null,
+   "score": "N/A",
+   "synopsis": "~~ Adapted from the song \"Advisor\" (ที่ปรึกษา) by 4EVE. Edit Translation English Español Português (Brasil) 한국어",
+   "watch": [],
    "fetched": "2026-11-22"
   }
  },

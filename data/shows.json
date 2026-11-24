@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:54+00:00",
+ "updated": "2026-11-24T23:58+00:00",
  "shows": {
   "801182": {
    "id": "801182",
@@ -2651,7 +2651,7 @@
     "Sunday"
    ],
    "network": null,
-   "score": "7.3",
+   "score": "7.4",
    "synopsis": "Edit Translation English Español Português (Brasil) 한국어",
    "watch": [],
    "eps": [
@@ -16118,6 +16118,92 @@
    "score": "N/A",
    "synopsis": "~~ Adapted from the song \"Advisor\" (ที่ปรึกษา) by 4EVE. Edit Translation English Español Português (Brasil) 한국어",
    "watch": [],
+   "fetched": "2026-11-24"
+  },
+  "815102": {
+   "id": "815102",
+   "slug": "815102-neoegero",
+   "title": "Neoegero",
+   "meta": "Korean Drama - 2026, 12 episodes",
+   "poster": "https://i.mydramalist.com/NRRXXA_4s.jpg?v=1",
+   "gl": true,
+   "firstSeen": "2026-11-24",
+   "native": "너에게로",
+   "country": "South Korea",
+   "type": "Drama",
+   "episodes": 12,
+   "start": "2026-07-17",
+   "end": "2026-10-02",
+   "airText": "Jul 17, 2026 - Oct  2, 2026",
+   "airDays": [
+    "Friday"
+   ],
+   "network": null,
+   "score": "N/A",
+   "synopsis": "Chance and curiosity between Ye Ji and Se Hui. Encounter and destiny. Happiness and regret. Decision and lingering attachment. Hello and goodbye. A midsummer story.\n\n(Source: Korean = 필름다이브 YouTube || Translation = MyDramaList) Edit Translation English Español Português (Brasil) 한국어",
+   "watch": [],
+   "eps": [
+    {
+     "n": 1,
+     "date": "2026-07-17",
+     "est": true
+    },
+    {
+     "n": 2,
+     "date": "2026-07-24",
+     "est": true
+    },
+    {
+     "n": 3,
+     "date": "2026-07-31",
+     "est": true
+    },
+    {
+     "n": 4,
+     "date": "2026-08-07",
+     "est": true
+    },
+    {
+     "n": 5,
+     "date": "2026-08-14",
+     "est": true
+    },
+    {
+     "n": 6,
+     "date": "2026-08-21",
+     "est": true
+    },
+    {
+     "n": 7,
+     "date": "2026-08-28",
+     "est": true
+    },
+    {
+     "n": 8,
+     "date": "2026-09-04",
+     "est": true
+    },
+    {
+     "n": 9,
+     "date": "2026-09-11",
+     "est": true
+    },
+    {
+     "n": 10,
+     "date": "2026-09-18",
+     "est": true
+    },
+    {
+     "n": 11,
+     "date": "2026-09-25",
+     "est": true
+    },
+    {
+     "n": 12,
+     "date": "2026-10-02",
+     "est": true
+    }
+   ],
    "fetched": "2026-11-24"
   }
  },
